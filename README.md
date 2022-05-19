@@ -5,7 +5,7 @@
 
 ## Badges
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20PRONTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20PRONTO&color=GREEN&style=for-the-badge"/>
 </p>
 
 ## Índice 
@@ -23,7 +23,7 @@
 
 ## Descrição do Projeto
 
-- Essa api feita em Node.js usando Sequeliza, foi desenvolvida com o intuito de criar um crud de uma escola de idiomas, mas que não possui um front-end.
+- Essa api feita em Node.js usando Sequelize, foi desenvolvida com o intuito de criar um crud de uma escola de idiomas, mas que não possui um front-end.
 
 ## Status do Projeto
 
